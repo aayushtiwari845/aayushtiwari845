@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="systems-light-title systems-light-desc">
+  <title id="systems-light-title">Living systems operating model, light theme</title>
+  <desc id="systems-light-desc">An animated technical diagram on warm paper showing a request moving through connected Systems, Data, and Intelligence regions before becoming an evidence-backed decision.</desc>
+  <defs>
+    <style>
+      [fill="#07090a"]{fill:#f4f1e9}[fill="#0e1315"]{fill:#fbfaf6}[fill="#0a0d0f"]{fill:#f0ede6}
+      [fill="#0c1012"]{fill:#f7f4ee}[fill="#101619"]{fill:#ece9e2}[fill="#eef3f3"]{fill:#171c1e}
+      [fill="#56dff3"]{fill:#007f98}[fill="#b9ef61"]{fill:#527000}[fill="#8e999d"]{fill:#5d686b}
+      [fill="#b7c0c2"]{fill:#454f52}[fill="#707c80"]{fill:#6a7476}[fill="#9da7aa"]{fill:#4f5a5d}
+      [fill="#8fae5b"]{fill:#587200}[stroke="#20272a"]{stroke:#cbc5bb}[stroke="#242c2f"]{stroke:#d8d1c6}
+      [stroke="#252d30"]{stroke:#cfc8be}[stroke="#2b3437"]{stroke:#c4bdb2}[stroke="#56dff3"]{stroke:#007f98}
+      [stroke="#b9ef61"]{stroke:#527000}[stroke="#526064"]{stroke:#8d999a}[stroke="#394448"]{stroke:#aeb7b6}
+      [stroke="#313c40"]{stroke:#bcc4c2}[stroke="#2b3538"]{stroke:#c2cac8}[stroke="#8e999d"]{stroke:#6c7779}[stroke="#9da7aa"]{stroke:#788285}
+      [stroke="#7d9852"]{stroke:#6e850f}[stop-color="#0e1315"]{stop-color:#fbfaf6}[stop-color="#0a0d0f"]{stop-color:#f0ede6}
+      [stop-color="#56dff3"]{stop-color:#007f98}[stop-color="#b9ef61"]{stop-color:#527000}
+    </style>
+    <pattern id="dark-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#242c2f" stroke-width="0.6" opacity="0.48"/>
+    </pattern>
+    <linearGradient id="dark-panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1315"/>
+      <stop offset="1" stop-color="#0a0d0f"/>
+    </linearGradient>
+    <linearGradient id="dark-signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56dff3" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#56dff3" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#b9ef61" stop-opacity="0.28"/>
+    </linearGradient>
+    <marker id="dark-arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L8 4 0 8Z" fill="#56dff3"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="340" fill="#07090a"/>
+  <rect x="1" y="1" width="1198" height="338" fill="none" stroke="#20272a" stroke-width="2"/>
+  <rect x="20" y="20" width="1160" height="300" fill="url(#dark-grid)" opacity="0.48"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="40" y="42" fill="#56dff3" font-size="10" font-weight="700" letter-spacing="2.4">OPERATING MODEL / 01</text>
+    <text x="40" y="61" fill="#8e999d" font-size="9" letter-spacing="1.1">FROM REQUEST TO GROUNDED EVIDENCE</text>
+    <circle cx="1008" cy="44" r="3.5" fill="#b9ef61"/>
+    <circle cx="1008" cy="44" r="7" fill="none" stroke="#b9ef61" stroke-opacity="0.24"/>
+    <text x="1022" y="48" fill="#b7c0c2" font-size="9" letter-spacing="1.4">STATE / COMPOSABLE</text>
+    <path d="M40 72H1160" stroke="#252d30"/>
+  </g>
+
+  <g>
+    <rect x="36" y="88" width="344" height="190" rx="8" fill="url(#dark-panel)" stroke="#2b3437"/>
+    <path d="M36 106V88H54M362 88H380V106M36 260V278H54" fill="none" stroke="#56dff3" stroke-width="1.5"/>
+    <rect x="428" y="88" width="344" height="190" rx="8" fill="url(#dark-panel)" stroke="#2b3437"/>
+    <path d="M428 106V88H446M754 88H772V106" fill="none" stroke="#56dff3" stroke-width="1.5" opacity="0.8"/>
+    <rect x="820" y="88" width="344" height="190" rx="8" fill="url(#dark-panel)" stroke="#2b3437"/>
+    <path d="M820 106V88H838M1146 278H1164V260M1146 88H1164V106" fill="none" stroke="#b9ef61" stroke-width="1.5"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="58" y="116" fill="#707c80" font-size="9" letter-spacing="1.8">REGION 01</text>
+    <text x="58" y="144" fill="#eef3f3" font-size="20" font-weight="700" letter-spacing="2.4">SYSTEMS</text>
+    <text x="358" y="116" text-anchor="end" fill="#b9ef61" font-size="8" letter-spacing="1.2">BOUNDARIES / CLEAR</text>
+
+    <text x="450" y="116" fill="#707c80" font-size="9" letter-spacing="1.8">REGION 02</text>
+    <text x="450" y="144" fill="#eef3f3" font-size="20" font-weight="700" letter-spacing="2.4">DATA</text>
+    <text x="750" y="116" text-anchor="end" fill="#b9ef61" font-size="8" letter-spacing="1.2">LINEAGE / VISIBLE</text>
+
+    <text x="842" y="116" fill="#707c80" font-size="9" letter-spacing="1.8">REGION 03</text>
+    <text x="842" y="144" fill="#eef3f3" font-size="20" font-weight="700" letter-spacing="2.4">INTELLIGENCE</text>
+    <text x="1142" y="116" text-anchor="end" fill="#b9ef61" font-size="8" letter-spacing="1.2">DECISIONS / GROUNDED</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54 190H104" stroke="#526064" stroke-width="1.5" marker-end="url(#dark-arrow)"/>
+    <path d="M309 190H426" stroke="#56dff3" stroke-width="1.5" marker-end="url(#dark-arrow)">
+      <animate attributeName="stroke-opacity" values="0.42;1;0.42" dur="5.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M446 190H496" stroke="#526064" stroke-width="1.5" marker-end="url(#dark-arrow)"/>
+    <path d="M701 190H818" stroke="#56dff3" stroke-width="1.5" marker-end="url(#dark-arrow)">
+      <animate attributeName="stroke-opacity" values="0.42;1;0.42" dur="5.8s" begin="-2.9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M838 190H888" stroke="#526064" stroke-width="1.5" marker-end="url(#dark-arrow)"/>
+    <path d="M1093 190H1146" stroke="#7d9852" stroke-width="1.5" marker-end="url(#dark-arrow)"/>
+  </g>
+
+  <g>
+    <circle cx="58" cy="190" r="4" fill="#07090a" stroke="#56dff3" stroke-width="1.5"/>
+    <rect x="104" y="158" width="205" height="64" rx="5" fill="#101619" stroke="#394448"/>
+    <path d="M169 158V222M239 158V222" stroke="#2b3538"/>
+    <circle cx="128" cy="181" r="5" fill="none" stroke="#56dff3"/>
+    <path d="M128 176V170M128 192V186M123 181H117M139 181H133" stroke="#56dff3" stroke-width="1"/>
+    <rect x="194" y="176" width="20" height="11" rx="2" fill="none" stroke="#8e999d"/>
+    <path d="M198 181.5H210" stroke="#b9ef61"/>
+    <path d="M264 174H285V188H264ZM268 178H281M268 183H278" fill="none" stroke="#8e999d"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1">
+      <text x="136" y="210" text-anchor="middle" fill="#9da7aa">API</text>
+      <text x="204" y="210" text-anchor="middle" fill="#9da7aa">SERVICE</text>
+      <text x="274" y="210" text-anchor="middle" fill="#9da7aa">STATE</text>
+    </g>
+    <rect x="344" y="185" width="10" height="10" transform="rotate(45 349 190)" fill="#0c1012" stroke="#56dff3"/>
+  </g>
+
+  <g>
+    <circle cx="450" cy="190" r="4" fill="#07090a" stroke="#56dff3" stroke-width="1.5"/>
+    <rect x="496" y="158" width="205" height="64" rx="5" fill="#101619" stroke="#394448"/>
+    <path d="M514 176H683M514 190H683M514 204H683" stroke="#313c40"/>
+    <path d="M530 176H570L586 190H626L642 204H678" fill="none" stroke="#56dff3" stroke-width="1.2"/>
+    <circle cx="530" cy="176" r="3" fill="#56dff3"/>
+    <circle cx="586" cy="190" r="3" fill="#07090a" stroke="#56dff3"/>
+    <circle cx="642" cy="204" r="3" fill="#b9ef61"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="0.9">
+      <text x="520" y="216" fill="#9da7aa">EVENT</text>
+      <text x="580" y="216" fill="#9da7aa">FLOW</text>
+      <text x="655" y="216" fill="#9da7aa">STORE</text>
+    </g>
+    <rect x="736" y="185" width="10" height="10" transform="rotate(45 741 190)" fill="#0c1012" stroke="#56dff3"/>
+  </g>
+
+  <g>
+    <circle cx="842" cy="190" r="4" fill="#07090a" stroke="#56dff3" stroke-width="1.5"/>
+    <rect x="888" y="158" width="205" height="64" rx="5" fill="#101619" stroke="#394448"/>
+    <path d="M916 178L958 190 916 205M958 190L1003 176M958 190L1003 206M1003 176V206M1003 190H1067" fill="none" stroke="#526064"/>
+    <circle cx="916" cy="178" r="5" fill="#0c1012" stroke="#56dff3"/>
+    <circle cx="916" cy="205" r="5" fill="#0c1012" stroke="#56dff3"/>
+    <circle cx="958" cy="190" r="6" fill="#101619" stroke="#b9ef61"/>
+    <circle cx="1003" cy="176" r="4" fill="#56dff3"/>
+    <circle cx="1003" cy="206" r="4" fill="#56dff3"/>
+    <path d="M1040 181H1070M1040 190H1062M1040 199H1074" stroke="#9da7aa"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="0.8">
+      <text x="905" y="217" fill="#9da7aa">CONTEXT</text>
+      <text x="947" y="217" fill="#9da7aa">POLICY</text>
+      <text x="1035" y="217" fill="#9da7aa">EVIDENCE</text>
+    </g>
+    <rect x="1128" y="185" width="10" height="10" transform="rotate(45 1133 190)" fill="#0c1012" stroke="#b9ef61"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.25">
+    <text x="58" y="254" fill="#707c80">INTERFACES · SERVICES · RECOVERY</text>
+    <text x="450" y="254" fill="#707c80">STREAMS · QUALITY · DURABLE STATE</text>
+    <text x="842" y="254" fill="#707c80">RETRIEVAL · POLICY · EVALUATION</text>
+  </g>
+
+  <g fill="none">
+    <path d="M40 302H1160" stroke="#252d30"/>
+    <path d="M40 302H1160" stroke="url(#dark-signal)" stroke-width="1.5" stroke-dasharray="2 12"/>
+    <path d="M40 298V306M380 298V306M428 298V306M772 298V306M820 298V306M1160 298V306" stroke="#394448"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.4">
+    <text x="40" y="319" fill="#707c80">REQUEST</text>
+    <text x="1160" y="319" text-anchor="end" fill="#8fae5b">VERIFIABLE OUTPUT</text>
+  </g>
+
+  <g>
+    <circle r="4" fill="#56dff3">
+      <animateMotion path="M58 190H1140" dur="12s" begin="-2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.95;1" dur="12s" begin="-2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#b9ef61">
+      <animateMotion path="M58 190H1140" dur="12s" begin="-8.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.95;1" dur="12s" begin="-8.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
