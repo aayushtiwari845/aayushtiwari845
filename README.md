@@ -22,6 +22,7 @@
 
 <p align="center">I build the layer around the model — typed interfaces, replayable evidence, evaluation gates before anything gets to decide.</p>
 
+<!--
 ---
 
 ### 🛠️ Building
@@ -70,6 +71,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushtiwari845&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
+-->
 ---
 
 > [!NOTE]
