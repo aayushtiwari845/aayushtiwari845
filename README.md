@@ -50,7 +50,20 @@
 
 ---
 
-### ⚙️ Stack
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aayushtiwari845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushtiwari845&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+-->
+
+---
+
+### My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,spring,cpp,java" alt="Systems"/>
@@ -62,16 +75,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,streamlit,react,nextjs,ts" alt="AI & Product"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aayushtiwari845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushtiwari845&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
--->
 ---
 
 > [!NOTE]
